@@ -1,6 +1,7 @@
 ![](https://images.cooltext.com/5548890.png)
 
 <br />Image by <a href="https://es.cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://es.cooltext.com/Edit-Logo?LogoID=3916818537">Edit Image</a>
+alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 ### ¡¿Qué tal?! 👋
 
