@@ -1,16 +1,35 @@
-### Hi there 👋
+![](https://images.cooltext.com/5508510.png)
 
-<!--
-**ManuelReyes1/ManuelReyes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-Here are some ideas to get you started:
+### ¡¿Qué tal?! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Bienvenidos a al perfil del estudiante 👨‍🏫 ✨Manuel Reyes✨.
+
+Actual Estudiante del Instituto Tecnológico de Tijuana
+
+- 🔭 Preparotora terminada en la carrera técnica de Electronica 
+- 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
+- 💬 Asimismo invito a mis demas compañeros de ingenieria en utilizarlo
+- 📫 Tendras acceso al GitHub Starter con unos 70 dlls de beca por comprobar con correo institucional 
+- 😄 Y con Github Classroom apoyar al estudiante para ser efectivo en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded 
+
+Horario Actual
+
+| Horario      | Lunes                                   | Martes                                  | Miercoles                               | Jueves                                  | Viernes                |
+|--------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|------------------------|
+| 2:00-3:00 PM |          Lenguajes de interfaz          |          Lenguajes de interfaz          |          Lenguajes de interfaz          |          Lenguajes de interfaz          |                        |
+| 3:00-4:00 PM |          Desarrollo sustentable         |          Desarrollo sustentable         |          Desarrollo sustentable         |          Desarrollo sustentable         | Desarrollo sustentable |
+| 4:00-5:00 PM |    Fundamentos de telecomunicaciones    |    Fundamentos de telecomunicaciones    |    Fundamentos de telecomunicaciones    |    Fundamentos de telecomunicaciones    |                        |
+| 5:00-6:00 PM |           Sistemas  Operativos          |           Sistemas  Operativos          |           Sistemas  Operativos          |           Sistemas  Operativos          |                        |
+| 6:00-7:00 PM | Fundamentos de  ingeniería de  software | Fundamentos de  ingeniería de  software | Fundamentos de  ingeniería de  software | Fundamentos de  ingeniería de  software |                        |
+| 7:00-8:00 PM |         Taller de  base de datos        |         Taller de  base de datos        |         Taller de  base de datos        |         Taller de  base de datos        |                        |
+
+Guias:
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+PARA CREAR TABLAS
+Cooltext.com
+
+https://www.tablesgenerator.com/markdown_tables. 
