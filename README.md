@@ -1,7 +1,6 @@
 ![](https://images.cooltext.com/5548890.png)
 
 <a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5548890.png" width="730" height="96" alt="ManuelReyes1" /></a>
-<br />Image by <a href="https://es.cooltext.com">Cool Text: Free Graphics Generator</a> 
 
 ### ¡¿Qué tal?! 👋
 
