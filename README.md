@@ -1,6 +1,7 @@
-![](https://images.cooltext.com/5508510.png)
+![](https://images.cooltext.com/5548890.png)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5548890.png" width="730" height="96" alt="ManuelReyes1" /></a>
+<br />Image by <a href="https://es.cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://es.cooltext.com/Edit-Logo?LogoID=3916818537">Edit Image</a>
 
 ### ¡¿Qué tal?! 👋
 
